@@ -13,7 +13,7 @@ This Python script scrapes and analyzes HackerRank contest leaderboards.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hackerrank-leaderboard-scraper.git
+git clone https://github.com/aka-naman/hackerrank-leaderboard-scraper.git
 cd hackerrank-leaderboard-scraper
 pip install -r requirements.txt
 ```
